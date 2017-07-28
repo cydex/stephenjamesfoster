@@ -1,0 +1,56 @@
+//Raw content
+
+//Meta
+
+Homepage Title - Stephen James Foster
+Description - Creative Digital Experiecne Designer - All things Digital/UX/UI/Code
+
+
+
+//Content
+
+1. Introduction
+
+22 years in digital experience creation in many industries including financial services, aerospace, manufacturing and fuels industry, where I have gained a wealth of knowledge through working for digital agencies and large firms.
+With solid expertise in User experience (UX), User Interface (UI), Creative Design and Coding allows me to consult and create as a full stack designer.
+Specialising in UX for the last 5 years but also continuing to develop in front-end coding and digital asset creation.
+I am currently working for Aegon Financial Services where as a Senior UX consultant I help the company advance in digital marketing, embrace UX methodologies and bring the companies legacy services up to modern standards of UX, UI and pushing accessibility requirements to the standard now expected.
+ (Other aspects - Creative solutions, Sketching, Corporate meetings...)
+
+2. Age of Pixels (BLog)
+
+I created 'AgeOfPixels' to help others in my industry and show just how far pixels effect our lifes.
+
+3. Capabilities
+
+a. UX - list elements including research, sketching, wire framing...
+b. UI - Elements, Full adobe creative suite, 3D, video, animation, design patterns...
+c. Coding - list expertise including PDF, SVG, HTML5, CSS, SCSS, LESS, JavaScript, AEM, JQuery, NodeJs, Grunt....
+d. Knowledge - Accessibility (W3C), Performance, Analytics, Mobile-First, Responsive/Adaptive, LEAN UX, Waterfall, Agile, Jira, Researching...
+e. Devices/OS - Windows 10, OSX, iOS, Android, Web, Mobile, Offline
+f. Financial services - regulations... e-learning....
+
+4. History
+
+a. Graphic Designer
+b. Head of graphics
+c. Lead digital designer
+d. Senior Solutions Analyst
+e. Senior User Experience Consultant
+
+5. Portfolio
+
+a. Acer
+b. Aegon
+c. Eurofighter
+d. BAE
+e. Scottish widows
+f. Print/Websites
+g. Shell
+
+INTERFACE
+
+Home | About | Portfolio | Capabilities | Contact
+
+Blog | LinkedIn | Facebook | Chatbot
+
