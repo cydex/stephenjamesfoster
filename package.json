@@ -1,0 +1,34 @@
+{
+  "name": "portfolio2018",
+  "version": "1.0.0",
+  "description": "Stephen James Foster Portfolio site 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cydex/stephenjamesfoster.git"
+  },
+  "keywords": [
+    "Creative",
+    "Designer",
+    "UX",
+    "Coder"
+  ],
+  "author": "Stephen James Foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cydex/stephenjamesfoster/issues"
+  },
+  "homepage": "https://github.com/cydex/stephenjamesfoster#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "lb-include": "^0.3.2"
+  }
+}
+
+//Works with Compass Watch/Compile & Gulp include/watch
+//Need to combine to one gulp watch - TODO
